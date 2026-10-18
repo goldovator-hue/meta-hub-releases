@@ -1,0 +1,5 @@
+{
+  "algorithm": "Ed25519",
+  "format": "SPKI DER base64",
+  "publicKey": "MCowBQYDK2VwAyEAs55XFg5tyw2UkVESOZoA64/5Hx4ytAoDd8MY6CY7f80="
+}
